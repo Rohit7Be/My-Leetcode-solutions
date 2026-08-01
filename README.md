@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
