@@ -1,8 +1,16 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        for i in range(len(nums)): #iterate through nums
-            if nums[i] >= target:
-                return i
+        left = 0
+        right = len(nums) - 1
+
+        while left <= right:
+            mid = (left+right) // 2
             
-        
-        return len(nums) #if all the vals are done iterating and still no place found, then its the last position
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid +1
+            else:
+                right = mid-1
+
+        return left #returning left bcuz the val before left is smaller and val after right is greater so the left is the desired spot
