@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
