@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
