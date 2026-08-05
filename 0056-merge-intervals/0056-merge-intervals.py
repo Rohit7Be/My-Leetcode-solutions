@@ -1,20 +1,15 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals.sort() #first sort whole 
+        intervals.sort()
 
-        res = []
-        res.append(intervals[0]) #append first elem. from intervals
+        res = [intervals[0]]
 
-        for i in intervals:
-            last = res[-1] #last res ka
-            current = i #current abhi wale i ka
+        for current in intervals[1:]:
+            last = res[-1]
 
-            if current[0] <= last[1]: #if this happens, mtlb overlap hai
-                start = min(current[0] , last[0]) #start min hoga dono ke first ka
-                end = max(current[1] , last[1]) #end max hoga dono ke last ka 
-                res.pop() #last wala elem delete kyuki ye wala ayega 
-                res.append([start,end]) #iss wale ko add 
+            if current[0] <= last[1]:
+                last[1] = max(last[1], current[1])
             else:
-                res.append(i) 
+                res.append(current)
 
         return res
