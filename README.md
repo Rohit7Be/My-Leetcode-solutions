@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
