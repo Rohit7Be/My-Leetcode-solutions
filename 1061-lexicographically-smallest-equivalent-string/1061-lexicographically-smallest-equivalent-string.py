@@ -13,9 +13,9 @@ class Solution:
             j = find(b)
 
             if i>j:
-                parent[i] = j
+                parent[i] = parent[j]
             else:
-                parent[j] = i
+                parent[j] = parent[i]
 
         for a,b in zip(s1,s2):
             x = ord(a) - ord('a')
@@ -29,5 +29,4 @@ class Solution:
             root = find(x)
             res.append(chr(root + ord('a')))
 
-        return ''.join(res)
-
+        return "".join(res)
