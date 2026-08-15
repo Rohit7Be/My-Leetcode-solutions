@@ -3,12 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        while len(nums1) > m: #remove extra vals from nums1
+        while len(nums1)>m:
             nums1.pop()
         
         nums1.extend(nums2)
-
         nums1.sort()
-
-
-        
