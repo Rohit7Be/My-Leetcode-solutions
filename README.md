@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
