@@ -10,7 +10,7 @@ class Solution:
 
         while current:
             nextNode = current.next
-            current.next = prev
+            current.next = prev 
             prev = current
-            current = nextNode
+            current  = nextNode
         return prev
