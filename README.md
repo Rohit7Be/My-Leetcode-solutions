@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Union-Find
 |  |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
