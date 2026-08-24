@@ -109,19 +109,23 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## String
 |  |
 | ------- |
