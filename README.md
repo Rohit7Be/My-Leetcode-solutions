@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0015-3sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
