@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
