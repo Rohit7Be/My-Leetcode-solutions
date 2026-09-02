@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1143-longest-common-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Union-Find
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
