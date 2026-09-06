@@ -1,20 +1,17 @@
 class Solution:
     def countPrimes(self, n: int) -> int:
-        if n <=2: #anything under this is not a prime
+        if n <= 2:
             return 0
 
-        prime = [True]*n #creating a list of true, making all the vals true(prime)
-        prime[0] = False  #0 is not prime
-        prime[1] = False #1 is also not prime
+        is_prime = [True] * n
+        is_prime[0] = is_prime[1] = False
+        p = 2
 
-        p = 2 #starting the loop with 2
+        while p*p < n:
+            if is_prime[p]:
 
-        while p*p < n: #start to check the multiple of 2. is it under the n or not
-            if prime[p]: #if prime[p] is true
+                for i in range(p*p, n, p):
+                    is_prime[i] = False
+            p+=1
 
-                for multiple in range(p*p, n, p): #checking the multiple under the range of n
-                    prime[multiple] = False #setting all of them to False, because they are multiple 
-            
-            p+=1 #increment
-
-        return sum(prime) #returning the sum of, how many true are in the list
+        return sum(is_prime)
