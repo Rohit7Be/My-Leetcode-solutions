@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
