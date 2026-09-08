@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
