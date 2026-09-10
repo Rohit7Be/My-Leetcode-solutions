@@ -4,7 +4,6 @@ class Node:
         self.value = value
         self.prev = None
         self.next = None
-    
 
 
 class LRUCache:
@@ -13,32 +12,28 @@ class LRUCache:
         self.cap = capacity
         self.cache = {}
 
-
         self.left , self.right = Node(0,0) , Node(0,0)
         self.left.next = self.right
         self.right.prev = self.left
-
-    def remove(self, node):
-        prev , nxt = node.prev , node.next
-        nxt.prev = prev
-        prev.next = nxt
-
-    def add(self, node):
-        prev, nxt = self.right.prev , self.right
-
+    
+    def add(self, node ):
+        prev , nxt = self.right.prev , self.right
         prev.next = node
         nxt.prev = node
 
         node.prev = prev
         node.next = nxt
-    
 
+    def remove(self, node):
+        prev , nxt = node.prev , node.next
+        prev.next = nxt
+        nxt.prev = prev
+    
 
     def get(self, key: int) -> int:
         if key in self.cache:
             self.remove(self.cache[key])
             self.add(self.cache[key])
-
             return self.cache[key].value
         return -1
 
@@ -48,13 +43,14 @@ class LRUCache:
         if key in self.cache:
             self.remove(self.cache[key])
         
-        self.cache[key] = Node(key,value)
+        self.cache[key] = Node(key, value)
         self.add(self.cache[key])
 
         if len(self.cache) > self.cap:
             lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
+
         
 
 
