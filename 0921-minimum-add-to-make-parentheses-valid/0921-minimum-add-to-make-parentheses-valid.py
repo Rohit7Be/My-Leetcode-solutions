@@ -1,14 +1,15 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        openBrac = 0
-        minAddBrac = 0
+        openB  = 0
+        minAdd = 0
 
         for i in s:
             if i == "(":
-                openBrac += 1
+                openB +=1
             else:
-                if openBrac > 0:
-                    openBrac -=1
+                if openB > 0:
+                    openB -=1
                 else:
-                    minAddBrac +=  1
-        return openBrac + minAddBrac
+                    minAdd +=1
+
+        return minAdd + openB 
