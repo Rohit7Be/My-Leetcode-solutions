@@ -1,6 +1,7 @@
 class Solution:
     def smallestEquivalentString(self, s1: str, s2: str, baseStr: str) -> str:
         parent = list(range(26))
+        res = []
 
         def find(x):
             if parent[x] == x:
@@ -17,16 +18,16 @@ class Solution:
             else:
                 parent[j] = parent[i]
 
+
         for a,b in zip(s1,s2):
             x = ord(a) - ord('a')
             y = ord(b) - ord('a')
             union(x,y)
 
-        res = []
-
         for ch in baseStr:
-            x = ord(ch) - ord('a')
-            root = find(x)
+            root = find(ord(ch) - ord('a'))
             res.append(chr(root + ord('a')))
 
-        return "".join(res)
+        return "".join(res) 
+
+        
