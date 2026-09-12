@@ -7,10 +7,10 @@
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         stack = []
-        ans = []
+        ans =  []
         curr = root
 
-        while curr or stack:
+        while stack or curr:
             while curr:
                 stack.append(curr)
                 curr = curr.left
@@ -19,4 +19,4 @@ class Solution:
             ans.append(curr.val)
             curr = curr.right
 
-        return ans 
+        return ans
