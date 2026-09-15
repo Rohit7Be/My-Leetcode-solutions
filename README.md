@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Longest Common Subsequence
 |  |
