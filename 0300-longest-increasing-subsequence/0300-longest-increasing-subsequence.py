@@ -1,16 +1,16 @@
 class Solution:
     def lengthOfLIS(self, nums: list[int]) -> int:
-        tails = [0]*len(nums)
+        tails = [0] * len(nums)
         size = 0
 
         for x in nums:
             i,j = 0, size
             while i!=j:
-                mid = (i+j) // 2
-                if tails[mid] < x:
-                    i = mid + 1
+                m = (i+j)//2
+                if tails[m] < x:
+                    i = m+1
                 else:
-                    j = mid
+                    j = m
             tails[i] = x
-            size = max(i+1, size)
+            size = max(i+1,size)
         return size
