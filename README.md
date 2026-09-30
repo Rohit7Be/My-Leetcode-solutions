@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
