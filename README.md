@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
