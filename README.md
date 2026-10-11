@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Euclidean Algorithm
 |  |
 | ------- |
