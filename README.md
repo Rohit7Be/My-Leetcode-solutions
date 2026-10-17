@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
