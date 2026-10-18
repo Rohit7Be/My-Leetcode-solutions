@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
