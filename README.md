@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
