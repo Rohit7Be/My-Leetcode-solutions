@@ -1,5 +1,10 @@
 class Solution:
+    def func(self, num):
+        if num<=1:
+            return num
+        return self.func(num-1) + self.func(num-2)
+
+
     def fib(self, n: int) -> int:
-        if n == 0 or n == 1:
-            return n
-        return self.fib(n-1) + self.fib(n-2)
+        return self.func(n)
+        
