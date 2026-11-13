@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
