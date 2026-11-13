@@ -3,10 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
         n = len(nums)
         k = k%n
-        nums[:] = nums[n-k:] + nums[:n-k]
+        def rev(nums,L,R):
+            while L<R:
+                nums[L],nums[R] = nums[R], nums[L]
+                L+=1
+                R-=1
+        
+        rev(nums,n-k,n-1)
+        rev(nums,0,n-k-1)
+        rev(nums,0,n-1)
+        
 
 
         
