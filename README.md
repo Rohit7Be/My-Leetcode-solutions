@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0146-lru-cache](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0009-palindrome-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
