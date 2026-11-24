@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 | [0056-merge-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the DSA and Improve my Problem Solving
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rohit7Be/My-Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
